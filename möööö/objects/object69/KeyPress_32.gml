@@ -1,0 +1,2 @@
+audio_stop_sound(Direction_by_defGames)
+audio_play_sound(Direction_by_defGames,1000,true);

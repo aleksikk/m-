@@ -1,0 +1,14 @@
+Converting GML script: ${project_dir}\objects\ctrlr\Create_0.gml
+Converted description /// @description Ask for permissions once, If we allready have them continue
+
+Converting GML script: ${project_dir}\objects\ctrlr\Alarm_1.gml
+Converted description /// @description Get permissions without having to restart app on first run
+
+Converting GML script: ${project_dir}\objects\ctrlr\Alarm_0.gml
+Converted description /// @description Testing the permissions
+
+Converting GML script: ${project_dir}\objects\tv\Draw_0.gml
+Converted description /// @description Draw game text
+
+Converting GML script: ${project_dir}\objects\tv\KeyPress_8.gml
+Converted description /// @description Free loaded sprite from memory and end game

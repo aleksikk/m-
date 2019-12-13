@@ -1,0 +1,1 @@
+audio_play_sound(Direction_by_defGames,1000,true)
