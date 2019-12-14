@@ -1,8 +1,8 @@
 {
-    "id": "2802742e-283b-487b-bf4b-ef3291e56319",
+    "id": "02ebcebd-efd6-4f5a-b22b-0b5e478c36e4",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oChesti",
+    "name": "object40",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "056c45ea-91b1-4919-b01f-90a80cfb167c",
+    "spriteId": "1e57e415-9bf2-431a-b61c-7e0c0e4ae0b0",
     "visible": true
 }
